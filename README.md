@@ -1,10 +1,10 @@
 # html-minifier-cli
 
-Command-line interface for [html-minifier](http://kangax.github.io/html-minifier/)
+Command-line interface for [html-minifier](http://kangax.github.io/html-minifier/). This fork adds JS and CSS minification.
 
 ## Install
 
-`npm install html-minifier-cli -g`
+`npm install -g git+https://git@github.com/robmurtagh/html-minifier-cli.git`
 
 ## Usage
 
